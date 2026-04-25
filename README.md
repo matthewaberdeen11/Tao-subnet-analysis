@@ -124,3 +124,21 @@ The generated Markdown report includes:
 - In Taostats mode, some fields are model proxies derived from available API endpoints.
 - `.env` is ignored by git; use `.env.example` as your template.
 - You can adjust weights in `AnalysisConfig` inside `tao_subnet_analysis.py`.
+
+
+## Comprehensive Dashboard
+
+If you want a full interactive dashboard (filters, ranking tables, undervalued list, scenario analysis, and raw data explorer), run:
+
+```bash
+pip install -r requirements.txt
+streamlit run dashboard.py
+```
+
+Dashboard features:
+- Live Taostats API mode and local JSON mode
+- Adjustable thresholds (`min overall`, `min valuation`)
+- Adjustable factor weights (value/quality/momentum)
+- Multi-tab UI: Overview, Rankings, Undervalued, Scenario Analysis, Raw Data
+- CSV/JSON export for ranked and raw datasets
+
