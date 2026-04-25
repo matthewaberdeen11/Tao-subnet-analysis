@@ -1,0 +1,74 @@
+[
+  {
+    "netuid": 1,
+    "name": "Text Inference",
+    "market_cap": 15000000,
+    "daily_revenue": 9000,
+    "daily_emission": 3800,
+    "tao_locked": 120000,
+    "active_validators": 48,
+    "active_miners": 320,
+    "growth_30d": 0.18,
+    "alpha_trend_30d": 0.11
+  },
+  {
+    "netuid": 8,
+    "name": "Image Models",
+    "market_cap": 9500000,
+    "daily_revenue": 7500,
+    "daily_emission": 2900,
+    "tao_locked": 95000,
+    "active_validators": 43,
+    "active_miners": 260,
+    "growth_30d": 0.14,
+    "alpha_trend_30d": 0.05
+  },
+  {
+    "netuid": 19,
+    "name": "Data Labeling",
+    "market_cap": 4200000,
+    "daily_revenue": 5200,
+    "daily_emission": 2100,
+    "tao_locked": 70000,
+    "active_validators": 35,
+    "active_miners": 190,
+    "growth_30d": 0.25,
+    "alpha_trend_30d": 0.15
+  },
+  {
+    "netuid": 34,
+    "name": "RAG Infrastructure",
+    "market_cap": 2300000,
+    "daily_revenue": 4100,
+    "daily_emission": 1900,
+    "tao_locked": 56000,
+    "active_validators": 31,
+    "active_miners": 150,
+    "growth_30d": 0.29,
+    "alpha_trend_30d": 0.20
+  },
+  {
+    "netuid": 52,
+    "name": "Synthetic Data",
+    "market_cap": 3300000,
+    "daily_revenue": 2800,
+    "daily_emission": 1800,
+    "tao_locked": 60000,
+    "active_validators": 29,
+    "active_miners": 140,
+    "growth_30d": 0.09,
+    "alpha_trend_30d": 0.02
+  },
+  {
+    "netuid": 68,
+    "name": "Speech Models",
+    "market_cap": 1200000,
+    "daily_revenue": 2600,
+    "daily_emission": 1450,
+    "tao_locked": 42000,
+    "active_validators": 26,
+    "active_miners": 135,
+    "growth_30d": 0.31,
+    "alpha_trend_30d": 0.24
+  }
+]
