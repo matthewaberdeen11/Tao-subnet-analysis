@@ -1,0 +1,11 @@
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Local secrets
+.env
+.env.*
+!.env.example
+
+# Generated reports
+reports/live_report.md
